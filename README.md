@@ -7,3 +7,7 @@ This repository is built step by step in the tutorial.
 Modyfikacja zawartości za pomocą edytora GitHub
 
 It now includes steps for github
+
+Utworzenie nowej gałęzi
+
+
